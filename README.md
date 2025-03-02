@@ -32,20 +32,7 @@ The **Math Quiz Application** is a GUI-based interactive quiz game developed usi
 ## Future Enhancements
 - Add more question types (algebra, geometry, etc.).
 - Implement a leaderboard.
-- Provide hints and explanations for answers.
-
-## Screenshots
-![Screenshot 2025-03-02 181622](https://github.com/user-attachments/assets/b7950194-d914-42b1-9a87-c515bae80832)
-![Screenshot 2025-03-02 181644](https://github.com/user-attachments/assets/47443a11-60c7-43d3-987f-bc23018c9289)
-![Screenshot 2025-03-02 181706](https://github.com/user-attachments/assets/a8ecc3de-bb5c-424e-91e1-26074f566dde)
-
-## Demo Video
-
-Watch the demo video here: 
-
-https://github.com/user-attachments/assets/06fc4167-9487-4852-bfca-b466efa3419d
-
-
+- Provide hints and explanations for answers
 
 ## License
 This project is open-source and free to use.
